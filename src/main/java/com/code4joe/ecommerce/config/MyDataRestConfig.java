@@ -10,7 +10,7 @@ import org.springframework.web.servlet.config.annotation.CorsRegistry;
 
 
 /**
- * testing github actions
+ *  Data rest configuration
  */
 
 @Configuration
